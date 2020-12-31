@@ -1,4 +1,4 @@
-.DS_Store
+.DS_*
 .vscode
 
 # Created by https://www.toptal.com/developers/gitignore/api/flask
